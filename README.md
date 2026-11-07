@@ -69,6 +69,6 @@ Every project is an opportunity to become a better engineer.
 ## 🤝 Let's Connect
 
 - GitHub: [@imayeshakhatoon](https://github.com/imayeshakhatoon)
-- LinkedIn: 
+- LinkedIn: linkedin.com/in/imayeshakhatoon
 
 **Building consistently. Learning continuously. Engineering with purpose.**
